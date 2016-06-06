@@ -2,6 +2,7 @@
 Tutorial to create groups of AWS users with different access rights and a id/password authentification method
 
 * Go to the [Identity and Access Management page](https://console.aws.amazon.com/iam/home) (connect to your AWS account)
+
 ### Groups
 * To create a new group
     * Go to the group page ("group" button on the left)
