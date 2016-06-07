@@ -23,5 +23,5 @@ Tutorial to create groups of AWS users with different access rights and a id/pas
 
 
 * User authentification
-    * From the  [home of the IAM service](https://console.aws.amazon.com/iam/home), use the link "IAM users sign-in link" (top of the screen)
-    * AWS will ask you a username and a password 
+    * Use the link "IAM users sign-in link" from the [home of the IAM service](https://console.aws.amazon.com/iam/home) (top of the screen)
+    * AWS will ask you a username and a password
